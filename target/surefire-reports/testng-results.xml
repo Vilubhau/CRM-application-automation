@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47505" started-at="2020-09-13T17:05:51Z" finished-at="2020-09-13T17:06:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47505" started-at="2020-09-13T17:05:51Z" finished-at="2020-09-13T17:06:38Z">
+      <class name="com.crm.qa.testcases.LoginTest">
+        <test-method status="PASS" signature="getExtentReport()[pri:0, instance:com.crm.qa.testcases.LoginTest@13c10b87]" name="getExtentReport" is-config="true" duration-ms="173" started-at="2020-09-13T17:05:51Z" finished-at="2020-09-13T17:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExtentReport -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginTest@13c10b87]" name="setUp" is-config="true" duration-ms="9345" started-at="2020-09-13T17:05:51Z" finished-at="2020-09-13T17:06:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyClickOnSignUpButton()[pri:0, instance:com.crm.qa.testcases.LoginTest@13c10b87]" name="verifyClickOnSignUpButton" duration-ms="3313" started-at="2020-09-13T17:06:00Z" finished-at="2020-09-13T17:06:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickOnSignUpButton -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginTest@13c10b87]" name="tearDown" is-config="true" duration-ms="812" started-at="2020-09-13T17:06:04Z" finished-at="2020-09-13T17:06:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginTest@13c10b87]" name="setUp" is-config="true" duration-ms="8673" started-at="2020-09-13T17:06:04Z" finished-at="2020-09-13T17:06:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyClickOnLoginButton()[pri:1, instance:com.crm.qa.testcases.LoginTest@13c10b87]" name="verifyClickOnLoginButton" duration-ms="6787" started-at="2020-09-13T17:06:13Z" finished-at="2020-09-13T17:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickOnLoginButton -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginTest@13c10b87]" name="tearDown" is-config="true" duration-ms="832" started-at="2020-09-13T17:06:20Z" finished-at="2020-09-13T17:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginTest@13c10b87]" name="setUp" is-config="true" duration-ms="9850" started-at="2020-09-13T17:06:21Z" finished-at="2020-09-13T17:06:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="invalidLogin()[pri:2, instance:com.crm.qa.testcases.LoginTest@13c10b87]" name="invalidLogin" duration-ms="7029" started-at="2020-09-13T17:06:31Z" finished-at="2020-09-13T17:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginTest@13c10b87]" name="tearDown" is-config="true" duration-ms="840" started-at="2020-09-13T17:06:38Z" finished-at="2020-09-13T17:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="flush()[pri:0, instance:com.crm.qa.testcases.LoginTest@13c10b87]" name="flush" is-config="true" duration-ms="474" started-at="2020-09-13T17:06:38Z" finished-at="2020-09-13T17:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- com.crm.qa.testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
