@@ -19,6 +19,8 @@ public class Base {
 	// This is a base class.
 	
 	// Do merge
+	
+	// XYZ
 
 	public static Properties config;
 	public static WebDriver driver;
