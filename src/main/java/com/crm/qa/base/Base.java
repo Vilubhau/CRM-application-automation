@@ -15,11 +15,14 @@ import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 
 
 public class Base {
+	
+	// This is a base class.
 
 	public static Properties config;
 	public static WebDriver driver;
 	public static ExtentReports report;
 	public static ExtentTest test;
+	
 	
 	public Base() {
 		config = new Properties();
