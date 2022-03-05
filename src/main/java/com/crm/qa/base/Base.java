@@ -17,6 +17,8 @@ import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 public class Base {
 	
 	// This is a base class.
+	
+	// Do merge
 
 	public static Properties config;
 	public static WebDriver driver;
